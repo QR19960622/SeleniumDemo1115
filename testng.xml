@@ -3,7 +3,7 @@
 <suite name="Default Suite" parallel="methods">
     <test name="Selenium_Grid_Demo">
         <classes>
-        <class name="com.business.LoginBusiness"/>
+            <class name="com.business.LoginBusiness"/>
         </classes>
     </test>
 </suite>
